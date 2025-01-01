@@ -49,3 +49,7 @@
 ## 💬 Random Dev Quote:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+
+##
+
+[![](https://visitcount.itsvg.in/api?id=birkandurgun&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
